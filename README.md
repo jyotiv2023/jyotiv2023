@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyotiv2023
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me jyotiverma7933@gmail.com
 
 <!---
