@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jyotiv2023
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Reactjs
+- 👋 Hi, I’m Jyoti
+- 👀 I’m new to frontend development
+- I started my journey as developer this year....learnt basic html css and js and starting working with React js framework
+- 🌱 I’m currently working as a Reactjs developer in a product startup company
 - 
 - 📫 How to reach me jyotiverma7933@gmail.com
 
