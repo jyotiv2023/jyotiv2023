@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jyoti
-- 👀 I’m new to frontend development
-- 👀 I started my journey as a React js developer few months back ....started with the basics of html css and js and then gradually paced up with React js framework
-- 🌱 I’m currently working as a Reactjs developer in a product startup company
-- 
+- 👀 Passionate React.js Developer | Software Tester | Seeking Exciting Opportunities
+- 👀 Skills: React.js | JavaScript | HTML | CSS | Testing | Git
+- 🌱 Experience: React.js Developer | Test Engineer
+- Open to collaborate on innovative projects and contribute to cutting-edge technologies. Let's connect and create something amazing together!
 - 📫 How to reach me jyotiverma7933@gmail.com
 
 <!---
