@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyoti
 - 👀 I’m new to frontend development
-- I started my journey as developer this year....learnt basic html css and js and starting working with React js framework
+- 👀 I started my journey as a React js developer few months back ....started with the basics of html css and js and then gradually paced up with React js framework
 - 🌱 I’m currently working as a Reactjs developer in a product startup company
 - 
 - 📫 How to reach me jyotiverma7933@gmail.com
