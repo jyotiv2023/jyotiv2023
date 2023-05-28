@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyoti
 - 👀 Passionate React.js Developer | Software Tester | Seeking Exciting Opportunities
-- 👀 Skills: React.js | JavaScript | HTML | CSS | Testing | Git
+- 👀 Skills: React.js | JavaScript | HTML | CSS | Manual and API Testing | Git
 - 🌱 Experience: React.js Developer | Test Engineer
 - Open to collaborate on innovative projects and contribute to cutting-edge technologies. Let's connect and create something amazing together!
 - 📫 How to reach me jyotiverma7933@gmail.com
