@@ -35,7 +35,7 @@ Passionate UI Developer | React.js Enthusiast | Building Scalable & Responsive A
 
 👥 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jyov22/)
 
-📬 **Email:** [jyov2023@gmail.com]
+📬 **Email:** jyov2023@gmail.com
 
 ## Open to Opportunities
 
