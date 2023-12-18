@@ -31,7 +31,7 @@ Passionate UI Developer | React.js Enthusiast | Building Scalable & Responsive A
 
 ## Let's Connect
 
-🌐 **Portfolio:** [in progress...](https://github.com/jyotiv2023/myPortfolio)
+🌐 **Portfolio:** [My Portfolio](https://jyoti-v-portfolio.netlify.app/)
 
 👥 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jyov22/)
 
